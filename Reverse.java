@@ -12,7 +12,7 @@ class Reverse
       int t = sc.nextInt();
 	  String[] arr = new String[t];
 	  for(int i = 0; i<t; i++){
-		  arr[i] = sc.nextLine();
+		  
 		  
 	  }
 	  for(int i = 0; i<t; i++){
